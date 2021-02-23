@@ -1,5 +1,5 @@
 # Cover-Page
 Fillable Cover Page for Projects and Practicals, Samriddhi College.
 
-![Cover Page](Cover_Page_PNG.png)
+<img src="Cover_Page_PNG.png" width="540" height="960">
 
