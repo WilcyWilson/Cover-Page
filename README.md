@@ -1,2 +1,2 @@
 # Cover-Page
-Cover Page for Projects and Practicals, Samriddhi College.
+Fillable Cover Page for Projects and Practicals, Samriddhi College.
